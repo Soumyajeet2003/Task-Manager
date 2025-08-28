@@ -1,5 +1,5 @@
-# Todo
-A small, componentized React Todo List app with local persistence. Features adding, toggling, deleting, clearing todos and a live date/time display.
+# Task-Manager
+A small, componentized React Task-Manager based on the concept of todo list app with local persistence. Features adding, toggling, deleting, clearing todos and a live date/time display.
 
 
 # Features
